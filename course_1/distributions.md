@@ -33,7 +33,9 @@ Factors are the fundamental building block in defining these distributions and h
 <br>
 - The BN represents the a joint distribution via the chain rule for Bayesian Networks
 
+<br>
 <i>P factorises over G</i>
+<br>
 P factorizes over G if
 P(X1,X2,...,Xn) = π<sub>i</sub>(Xi|Par<sub>G</sub>(Xi))
-
+where G is a graph over X1,...,Xn
