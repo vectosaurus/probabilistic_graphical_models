@@ -32,4 +32,8 @@ Factors are the fundamental building block in defining these distributions and h
 - For each node Xi, a conditional probability distribution(cpd), P(Xi|Parents(Xi))
 <br>
 - The BN represents the a joint distribution via the chain rule for Bayesian Networks
-\\[ P(X{sub}i)\\] 
+
+<i>P factorises over G</i>
+P factorizes over G if
+P(X1,X2,...,Xn) = π<sub>i</sub>(Xi|Par<sub>G</sub>(Xi))
+
