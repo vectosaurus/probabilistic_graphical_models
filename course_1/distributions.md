@@ -12,5 +12,4 @@ Marginalization is an operation that takes a probability distribution over a lar
 <i>Factor</i>
 A factor really is a function, or a table. It takes a bunch of arguments and it gives us a value for every combination of values we provide it
 
-![Factor Product](factor_product.png)
-Format: ![Alt Text](url)
+<img src="factor_product.png" />
