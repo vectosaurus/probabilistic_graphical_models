@@ -19,8 +19,8 @@ Factor product is like taking a cross join and multipying
 <i>Factor Marginalization</i>
 Factor Marginalization is similar to taking a groupby sum
 <div>
-<img src="factor_product.png" width=40%/>
-<img src="factor_marginalization.png"  width=40%/>
+<img src="factor_product.png" width=40% margin=2.4%%/>
+<img src="factor_marginalization.png"  width=40%  margin=2.4%/>
 </div>
 
 Factors are the fundamental building block in defining these distributions and high dimensional spaces. That is the way in which we're going to define an exponentially large probability distribution over N random variables is by taking a bunch of little pieces and putting them together by multiplying factors in order to define these high dimensional probability distributions. It turns out also that the same set of basic operations that we use to define the probability distributions in these high dimensional spaces are also what we use for manipulating them in order to give us a set of basic inference algorithms.
